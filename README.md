@@ -1,6 +1,6 @@
 # Fashion MNIST Classification Pipeline
 
-An end-to-end Machine Learning pipeline for Fashion-MNIST classification using TensorFlow, DVC, and Git.
+An end-to-end Machine Learning pipeline for Fashion-MNIST dataset classification using TensorFlow, DVC, and Git.
 
 ## Project Structure
 
