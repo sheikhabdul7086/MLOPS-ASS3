@@ -1,0 +1,17 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.dvc/cache
+.dvc/tmp
+models/
+data/raw/
+data/processed/
+token.json
+credentials.json
+.gdrive-credentials.json
+run_workflow.py
+build_full_assignment.py
+build_clean_repo_and_report.py
+build_clean_repo_fixed.py
+report_assets/
